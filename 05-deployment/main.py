@@ -4,7 +4,7 @@ from fastapi import status
 import pickle
 app = FastAPI()
 
-with open("pipeline_v1.bin", "rb") as f:
+with open("pipeline_v2.bin", "rb") as f:
     pipeline = pickle.load(f)
 
 def predict_single(client: dict) -> float:
