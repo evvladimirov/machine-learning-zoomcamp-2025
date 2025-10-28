@@ -19,6 +19,7 @@ I am participating in this free, hands-on course to build real-world ML skills t
 * `03-classification/` — Module 3: Classification
 * `04-evaluation/` — Module 4: Model Evaluation
 * `05-deployment/` — Module 5: Model Deployment
+* `06-trees/` — Module 6: Decision Trees & Ensemble Learning
 * `data/` — Datasets used throughout the course
 
 ## How to Use
